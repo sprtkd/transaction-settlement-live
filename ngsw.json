@@ -1,0 +1,86 @@
+{
+  "configVersion": 1,
+  "timestamp": 1590684574248,
+  "index": "https://sprtkd.github.io/transaction-settlement-live/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://sprtkd.github.io/transaction-settlement-live/favicon.ico",
+        "https://sprtkd.github.io/transaction-settlement-live/index.html",
+        "https://sprtkd.github.io/transaction-settlement-live/main-es2015.4a3ee3a2acc3b6fddeb3.js",
+        "https://sprtkd.github.io/transaction-settlement-live/main-es5.4a3ee3a2acc3b6fddeb3.js",
+        "https://sprtkd.github.io/transaction-settlement-live/manifest.webmanifest",
+        "https://sprtkd.github.io/transaction-settlement-live/polyfills-es2015.74dc9c573d732177f05e.js",
+        "https://sprtkd.github.io/transaction-settlement-live/polyfills-es5.8129f9eaeb54b89a5f73.js",
+        "https://sprtkd.github.io/transaction-settlement-live/runtime-es2015.1eba213af0b233498d9d.js",
+        "https://sprtkd.github.io/transaction-settlement-live/runtime-es5.1eba213af0b233498d9d.js",
+        "https://sprtkd.github.io/transaction-settlement-live/styles.c83195c211da498a8d13.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-128x128.png",
+        "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-144x144.png",
+        "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-152x152.png",
+        "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-192x192.png",
+        "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-384x384.png",
+        "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-512x512.png",
+        "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-72x72.png",
+        "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-96x96.png",
+        "https://sprtkd.github.io/transaction-settlement-live/assets/landing.jpg",
+        "https://sprtkd.github.io/transaction-settlement-live/assets/logo.png",
+        "https://sprtkd.github.io/transaction-settlement-live/assets/upload.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://sprtkd.github.io/transaction-settlement-live/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://sprtkd.github.io/transaction-settlement-live/assets/landing.jpg": "9f41acf6877488d502ee9538d968146fa1e9264e",
+    "https://sprtkd.github.io/transaction-settlement-live/assets/logo.png": "690fa56f058728b09274b47cd7a7f30a0d04b3a7",
+    "https://sprtkd.github.io/transaction-settlement-live/assets/upload.svg": "4319e9f3e47ecc0c31c5a2c8cee5a404c06abc38",
+    "https://sprtkd.github.io/transaction-settlement-live/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://sprtkd.github.io/transaction-settlement-live/index.html": "37bc9fd2364ababeaab506775338dd824bd1f558",
+    "https://sprtkd.github.io/transaction-settlement-live/main-es2015.4a3ee3a2acc3b6fddeb3.js": "f29a96045691f1a4841bcf0372fffdd5693b025d",
+    "https://sprtkd.github.io/transaction-settlement-live/main-es5.4a3ee3a2acc3b6fddeb3.js": "8dee43a0eee19d8141fda0484cf943511b4f6f7c",
+    "https://sprtkd.github.io/transaction-settlement-live/manifest.webmanifest": "b3cac0a75da87b3a996937994204045491711064",
+    "https://sprtkd.github.io/transaction-settlement-live/polyfills-es2015.74dc9c573d732177f05e.js": "9b0821549747e05889d161d586b63e69ef8282bb",
+    "https://sprtkd.github.io/transaction-settlement-live/polyfills-es5.8129f9eaeb54b89a5f73.js": "9fa1cac13cc94ec77036dab5a5f1cd8fe19ad68a",
+    "https://sprtkd.github.io/transaction-settlement-live/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://sprtkd.github.io/transaction-settlement-live/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://sprtkd.github.io/transaction-settlement-live/styles.c83195c211da498a8d13.css": "2c0705f13ec110d8810a4cad2cb28fb8716b0c58"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
