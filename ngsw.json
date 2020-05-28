@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1590684574248,
+  "timestamp": 1590685797252,
   "index": "https://sprtkd.github.io/transaction-settlement-live/index.html",
   "assetGroups": [
     {
@@ -55,7 +55,7 @@
     "https://sprtkd.github.io/transaction-settlement-live/assets/logo.png": "690fa56f058728b09274b47cd7a7f30a0d04b3a7",
     "https://sprtkd.github.io/transaction-settlement-live/assets/upload.svg": "4319e9f3e47ecc0c31c5a2c8cee5a404c06abc38",
     "https://sprtkd.github.io/transaction-settlement-live/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://sprtkd.github.io/transaction-settlement-live/index.html": "37bc9fd2364ababeaab506775338dd824bd1f558",
+    "https://sprtkd.github.io/transaction-settlement-live/index.html": "d55b0788e61c214527423bf552342d307347d948",
     "https://sprtkd.github.io/transaction-settlement-live/main-es2015.4a3ee3a2acc3b6fddeb3.js": "f29a96045691f1a4841bcf0372fffdd5693b025d",
     "https://sprtkd.github.io/transaction-settlement-live/main-es5.4a3ee3a2acc3b6fddeb3.js": "8dee43a0eee19d8141fda0484cf943511b4f6f7c",
     "https://sprtkd.github.io/transaction-settlement-live/manifest.webmanifest": "b3cac0a75da87b3a996937994204045491711064",
